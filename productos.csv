@@ -1,0 +1,80 @@
+001,Manzana,12.50,Fruta,50,10,100
+002,Leche,18.00,Lácteos,30,5,50
+003,Arroz,15.00,Granos,200,20,300
+004,Huevo,10.00,Proteína,60,10,80
+005,Zanahoria,8.00,Vegetales,40,5,60
+006,Pollo,35.00,Proteína,25,5,40
+007,Naranja,13.50,Fruta,45,15,70
+008,Queso,22.00,Lácteos,20,5,30
+009,Frijoles,14.50,Granos,150,20,250
+010,Tomate,11.00,Vegetales,35,10,50
+011,Banano,12.00,Fruta,35,5,60
+012,Yogur,16.00,Lácteos,20,5,35
+013,Avena,9.00,Granos,100,15,150
+014,Pescado,30.00,Proteína,15,5,30
+015,Papas,7.00,Vegetales,60,10,90
+016,Pera,13.00,Fruta,25,5,40
+017,Mantequilla,24.00,Lácteos,10,3,20
+018,Lentejas,12.50,Granos,130,20,200
+019,Carne,40.00,Proteína,10,3,15
+020,Espinaca,10.00,Vegetales,25,5,40
+021,Cebolla,9.50,Vegetales,45,10,70
+022,Cereal,15.50,Granos,80,10,100
+023,Uvas,14.00,Fruta,30,5,55
+024,Crema,17.00,Lácteos,15,5,25
+025,Garbanzos,13.00,Granos,120,20,190
+026,Jamón,38.00,Proteína,20,5,30
+027,Pimiento,12.50,Vegetales,35,10,55
+028,Kiwis,15.00,Fruta,20,5,35
+029,Lechuga,8.00,Vegetales,40,5,60
+030,Arándanos,18.50,Fruta,25,5,40
+031,Maíz,11.50,Granos,200,30,300
+032,Salmón,28.00,Proteína,15,5,25
+033,Champiñones,12.00,Vegetales,25,5,45
+034,Fresas,19.00,Fruta,30,5,50
+035,Helado,25.00,Lácteos,10,3,20
+036,Lentejas,14.00,Granos,150,20,250
+037,Tofu,21.00,Proteína,15,5,25
+038,Calabacín,9.50,Vegetales,35,10,60
+039,Frutos rojos,17.00,Fruta,25,5,45
+040,Pan,12.00,Granos,80,10,100
+041,Miel,20.00,Fruta,15,5,35
+042,Ananá,14.00,Fruta,35,10,50
+043,Quinoa,18.00,Granos,120,20,200
+044,Caballa,27.00,Proteína,10,3,15
+045,Albahaca,9.50,Vegetales,25,5,45
+046,Coco,11.00,Fruta,20,5,40
+047,Pepino,7.50,Vegetales,35,10,50
+048,Manteca de cacahuate,22.00,Granos,15,5,30
+049,Pera asiática,16.00,Fruta,30,5,50
+050,Yuca,8.00,Vegetales,40,5,60
+051,Mango,14.00,Fruta,25,5,40
+052,Nuez,24.00,Granos,20,5,35
+053,Pavo,33.00,Proteína,15,5,25
+054,Ciruelas,12.00,Fruta,30,5,50
+055,Berenjena,10.50,Vegetales,35,10,60
+056,Pasta,13.50,Granos,100,15,150
+057,Bacalao,32.00,Proteína,10,3,20
+058,Cereza,16.50,Fruta,25,5,45
+059,Mozzarella,19.00,Lácteos,15,5,25
+060,Chayote,9.00,Vegetales,35,10,55
+061,Toronjil,18.00,Fruta,30,5,50
+062,Granos de elote,11.00,Granos,200,30,300
+063,Atún,34.00,Proteína,20,5,35
+064,Broccoli,10.00,Vegetales,25,5,45
+065,Melón,14.50,Fruta,25,5,50
+066,Piñones,20.00,Granos,15,5,35
+067,Langostinos,40.00,Proteína,10,3,15
+068,Cebolla de verdeo,9.50,Vegetales,35,10,55
+069,Kiwis dorados,15.50,Fruta,25,5,40
+070,Brócoli,9.00,Vegetales,30,5,50
+071,Arándanos rojos,19.00,Fruta,30,5,45
+072,Helado de vainilla,25.00,Lácteos,15,5,25
+073,Chiles,8.50,Vegetales,40,5,60
+074,Aguacate,20.00,Fruta,20,5,45
+075,Cocina india,15.00,Granos,150,20,250
+076,Sardinas,24.00,Proteína,15,5,25
+077,Camarones,38.00,Proteína,15,5,30
+078,Natilla,17.00,Lácteos,20,5,30
+079,Mamey,14.50,Fruta,25,5,45
+080,Pimientos verdes,9.00,Vegetales,30,5,50
